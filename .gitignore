@@ -8,7 +8,6 @@ ENV/
 env/
 .vscode/
 *.log
-*.png
 .bash_history
 debugpy_info.json
 component-detection-pip-report.json
