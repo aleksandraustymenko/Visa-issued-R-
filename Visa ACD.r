@@ -11,9 +11,9 @@ xls2024_1 <- read_excel("C:/Users/Sasha/Desktop/2024_1.xlsx")
 xls2024_2 <- read_excel("C:/Users/Sasha/Desktop/2024_2.xlsx")
 
 
-#view(xls2021_1)
+view(xls2021_1)
 
-#view(xls2024_1)
+view(xls2024_1)
 
 
 p <- ggplot(xls2024_1, aes(x = C, y = obywatelstwa)) +
